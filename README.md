@@ -1,1 +1,1 @@
-# gelecegi_yazanlar
+# Geleceği Yazanlar Uygulamaları
